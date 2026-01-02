@@ -12,3 +12,9 @@ function newfeatureadd(){
     console.log("this is a new feature");
     console.log("this is a new feature 22");
 }
+
+
+function newfeataddB(){
+    console.log("this is a new feat b");
+    
+}
