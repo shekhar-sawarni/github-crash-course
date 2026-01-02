@@ -10,4 +10,5 @@ function sayName(){
 
 function newfeatureadd(){
     console.log("this is a new feature");
+    console.log("this is a new feature 22");
 }
