@@ -6,3 +6,8 @@ const db='01/01/2000';
 function sayName(){
     console.log(`say my name ${name}`);
 }
+
+
+function newfeatureadd(){
+    console.log("this is a new feature");
+}
